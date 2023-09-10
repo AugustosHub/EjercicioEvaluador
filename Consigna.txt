@@ -1,0 +1,20 @@
+PARTE 1: Una empresa ha decidido invertir en la contratación de personal informático  
+para que desarrolle un sistema que permita gestionar el stock. La información a recoger  será: 
+nombre del producto, precio y cantidad en stock. Actualmente la empresa cuenta  con 10 productos distintos. 
+El programa debe ser capaz de: 
+- Dar de alta un producto nuevo. 
+- Buscar un producto por su nombre. 
+- Modificar el stock y precio de un producto dado. 
+
+PARTE 2: Considerando que el sistema en el punto anterior ha sido un éxito, 
+la  empresa ha decidido incorporar la información de los proveedores por cada producto  que se guarda en el sistema. 
+La información que debemos alojar de los proveedores es:  Nombre, Dirección y Teléfono.  
+Una vez que tengamos la información de los proveedores, el sistema deberá  permitirnos: 
+- Dar de alta un producto nuevo junto con su proveedor 
+- Buscar los productos asociados a un proveedor específico 
+
+PARTE 3: El éxito de la solución informática es un hecho, el cliente quiere seguir  
+confiando en nosotros la administración de su información y nos solicita hacer un  
+pequeño módulo de Venta, donde vamos guardar el cliente, el tipo de factura y el  
+costo total de la venta. Consideremos que al momento de vender el stock de los  
+productos guardados debe disminuir.

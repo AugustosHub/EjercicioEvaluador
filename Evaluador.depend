@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1694092588 source:c:\users\pcunvime8\desktop\augusto\evaluador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+
+1694324314 source:c:\users\administrador\desktop\unvime\programación\c\segundocuatrimestre\evaluador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+
